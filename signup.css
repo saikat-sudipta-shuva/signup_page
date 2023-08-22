@@ -1,0 +1,57 @@
+h3{
+  text-align: center ;
+  font-style: italic ;
+  color: red;
+  font-size: 30px;
+}
+
+.a{
+    margin: 50px;
+    height: 80%;
+    width: 40%;
+    background-color: rgb(0, 213, 255);
+    
+}
+
+.a1{
+  color:green;  
+  background-color: red;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px 5px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.a1:hover{
+    color: white;
+    background-color: black;
+    
+}
+.a1:active{
+    color: yellow;
+}
+.a1:visited{
+    color: tomato;
+    background-color: aqua;
+}
+.b1{
+  color:rgb(73, 0, 128);  
+  background-color: rgb(0, 255, 38);
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px 5px;
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+}
+.b1:hover{
+    color: white;
+    background-color: black;
+    
+}
+.b1:active{
+    color: yellow;
+}
+.b1:visited{
+    color: tomato;
+    background-color: aqua;
+}
